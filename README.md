@@ -30,7 +30,7 @@ I'm Kristin, a Full-Stack Developer passionate about building projects that have
 - [LinkedIn](https://www.linkedin.com/in/kristin-stoecker/)
 - [Email](mailto:kst@sdrid.de)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kwossi&show_icons=true&theme=radical)
 
 <!--
 **kwossi/kwossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
