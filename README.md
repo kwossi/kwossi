@@ -18,7 +18,7 @@ I'm Kristin, a Full-Stack Developer passionate about building projects that have
 - [Tape Tunes](https://mixtape-app-1.onrender.com)  
   A React mixtape app to create, listen to and share mixtapes with friends.
 - [Pixel Pairs](https://github.com/kwossi/cli-memory-game)
-  A CLI memory game for 2 players written in JacaScript.
+  A CLI memory game for 2 players written in JavaScript.
 
 ### 🎯 Currently Learning
 - Building scalable component libraries
