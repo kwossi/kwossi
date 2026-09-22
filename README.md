@@ -9,7 +9,7 @@ I'm Kristin, a Full-Stack Developer passionate about building projects that have
 - **Frontend:** React, React Native, Styled-Components, CSS Modules
 - **Backend:** Node.js, Express, MongoDB
 - **Testing:** Jest, Playwright
-- **Tools:** Git, Vite, Figma
+- **Tools:** Git, Vite, Figma, Storybook
 - **Other:** SEO, Accessibility, Responsive Design
 
 
