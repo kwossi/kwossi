@@ -5,9 +5,10 @@
 I'm Kristin, a Full-Stack Developer passionate about building projects that have a positive social impact. With a background in linguistics and a love for coding, I combine creativity and technology to create meaningful solutions.
 
 ### 🛠️ Skills & Technologies
-- **Languages:** JavaScript, HTML, CSS, Python
-- **Frontend:** React, Styled-Components, CSS Modules
+- **Languages:** JavaScript, TypeScript, HTML, CSS, Python
+- **Frontend:** React, React Native, Styled-Components, CSS Modules
 - **Backend:** Node.js, Express, MongoDB
+- **Testing:** Jest, Playwright
 - **Tools:** Git, Vite, Figma
 - **Other:** SEO, Accessibility, Responsive Design
 
@@ -22,13 +23,12 @@ I'm Kristin, a Full-Stack Developer passionate about building projects that have
 
 ### 🎯 Currently Learning
 - Building scalable component libraries
-- TypeScript and NextJS
-- testing with Jest
+- - Kotlin, Swift
 - Improving performance and accessibility
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/kristin-stoecker/)
-- [Email](mailto:kst@sdrid.de)
+- [Email](mailto:krst@mailbox.org)
 
 <!--
 **kwossi/kwossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
