@@ -23,7 +23,7 @@ I'm Kristin, a Full-Stack Developer passionate about building projects that have
 
 ### 🎯 Currently Learning
 - Building scalable component libraries
-- - Kotlin, Swift
+- Kotlin, Swift
 - Improving performance and accessibility
 
 ### 📫 Let's Connect
